@@ -1,0 +1,6 @@
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Sum Square Difference\Sum Square Difference\bin\Debug\Sum Square Difference.exe.config
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Sum Square Difference\Sum Square Difference\bin\Debug\Sum Square Difference.exe
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Sum Square Difference\Sum Square Difference\bin\Debug\Sum Square Difference.pdb
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Sum Square Difference\Sum Square Difference\obj\Debug\Sum Square Difference.exe
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Sum Square Difference\Sum Square Difference\obj\Debug\Sum Square Difference.pdb
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Sum Square Difference\Sum Square Difference\obj\Debug\Sum Square Difference.csprojResolveAssemblyReference.cache
